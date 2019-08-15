@@ -1,0 +1,52 @@
+﻿SmartLoadApp
+Version 1.1
+Inhalte © Softwareentwickler 
+© Schulz Alexander
+© Philipp Würfel
+© Geron Beli 
+© Brice Nsikam Onla
+Inhalte © Productowner
+© BSS Business Solutions for Services - Ost GmbH
+1. Nutzungsbefugnisse
+1.1. Das Werk einschließlich aller Teile insbesondere auch der mitgelieferten
+Begleitmaterialien ist urheberrechtlich geschützt. Die Reproduktion,
+Überarbeitung, Übersetzung, Bearbeitung ganz oder/und Teilen ist ohne die
+schriftliche Genehmigung der Entwickler untersagt, sofern nachfolgend nichts
+anderes bestimmt ist.
+1.2. Der User darf die Software auf einem Einzelplatzrechner/ Smartphone ablaufen lassen
+sowie das Programm vervielfältigen, soweit die jeweilige Vervielfältigung für
+die Benutzung des Programms notwendig ist. Notwendige Vervielfältigungen sind
+insbesondere die Installation des Programms auf dem Rechner/Smartphone sowie das zum
+Programmablauf erforderliche Laden des Programms in den Arbeitsspeicher.
+1.3. Über die in den Absätzen 1.2. gestatteten Handlungen hinaus darf
+der Anwender keine Vervielfältigungsstücke anfertigen.
+1.5. Der User hat Vorkehrungen zu treffen, dass die überlassenen Anmeldedaten nicht an Dritte weitergegeben werden oder Dritte diese unbefugt nutzen können. 
+Die Weitergabe des von SmartLoadApp-Entwicklern überlassenen Softwarelschlüssel an Dritte oder deren Öffentlichmachung ist nicht gestattet.
+1.6. Rechte zur öffentlichen Zugänglichmachung der Software werden nicht
+eingeräumt. Regelung der Weiterbenutzung des Codes erfolgt durch Product Owner
+1.7. Bei einer Weiterveräußerung der Software ist sicherzustellen, dass
+sämtliche Kopien der Software auf Speichermedien, die beim User verbleiben,
+vollständig und dauerhaft gelöscht sind. Dies gilt auch für erstellte
+Sicherungskopien. Datenträger, die zulässige Kopien der Software enthalten, sind
+zu löschen, falls dies nicht möglich ist, zu vernichten, bzw. unbrauchbar zu
+machen.
+2. Gewährleistung
+2.1. Die Software ist für die Verwendung auf Smartphones die Android 6.0 und höhere Versionen unterstützen. Die Weitergabe der App an den Endkunden erfolgt als .APK-Datei.
+2.2. Die SmartLoadApp-Entwickler gewährleisten nicht, dass die Softwareprodukte frei von Sach- und
+Rechtsmängeln sind. 
+2.4. Im Falle eines Mangels haben die Software-Entwickler zunächst das Recht und die Pflicht zur
+Nacherfüllung. Eine Nacherfüllung erfolgt nach Wahl des Users durch Lieferung
+einer neuen Sache (Ersatzlieferung) oder durch Nachbesserung.
+2.5. Kann der Mangel nicht innerhalb angemessener Frist behoben werden oder ist
+die Nacherfüllung aus sonstigen Gründen fehlgeschlagen, kann der User nach
+seiner Wahl den Kaufpreis mindern oder den Rücktritt vom Vertrag erklären.
+3. Datenschutz
+Die Software-Entwickler verwenden die vom User mitgeteilten Daten wie Name, Adresse, Telefonnummer und E-Mail-Adresse lediglich zur Durchführung des Vertrages mit dem User.
+Die persönlichen Daten werden nicht an Dritte weitergegeben, soweit dies nicht zur Durchführung
+des Vertrages notwendig ist (z.B. Mitteilung von Namen und Anschrift des Users
+für den Versand der Software durch das Versandunternehmen).
+
+Der SmartLoadApp-Entwickler verwendet folgende freie Software-Bibliotheken:
+→ com.github.gcacace:signature-pad:1.2.1
+
+

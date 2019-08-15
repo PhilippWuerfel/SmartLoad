@@ -1,0 +1,7 @@
+Zugriff erfolgt über einen VPN-Tunnel
+-> openvpn-client-installer-2.0.25 ausführen/installieren
+-> OpenVPN (Securepoint SSL VPN) öffnen
+-> firewall_foo_local_sslrw.ovpn importieren
+-> Zugangsdaten eingeben (am besten Häckchen bei speichern setzen)
+
+--> Zugriff auf den Server dann mit RemoteDesktopConnection (RDP) - Standardtool von Windows (sollte jeder drauf haben)

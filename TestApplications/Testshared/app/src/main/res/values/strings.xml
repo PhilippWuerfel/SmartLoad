@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Testshared</string>
+    <string name="app_pref_name">Testshared</string>
+    <string name="Pref_login_status_preference"> Testshared</string>
+    <string name="Pref_user_name">Testshared </string>
+    <string name="Pref_user_password"> Testshared</string>
+    <string name="title_activity_sucess">Sucess</string>
+    <string name="title_activity_imagedetail">Imagedetail</string>
+</resources>
